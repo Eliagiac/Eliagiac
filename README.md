@@ -8,7 +8,7 @@ My proudest achievement is the ongoing development of a UCI chess engine written
 
 ## 💻 Technical Diversification
 
-Beyond C#, I thrive on exploring various technologies. My journey includes delving into Python programming, mastering relational databases, and crafting RESTful APIs. The dynamic nature of technology excites me, and I embrace the challenge of adapting to and excelling in new technological frontiers.
+Beyond C#, I thrive on exploring various technologies. My journey includes delving into Python programming, relational databases, and RESTful APIs. The dynamic nature of technology excites me, and I embrace the challenge of adapting to and excelling in new technological frontiers.
 
 ## 🧠 Problem Solver with a Passion
 
