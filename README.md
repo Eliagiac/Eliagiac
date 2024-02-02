@@ -1,8 +1,8 @@
-# Eli Giaccardi - C# Developer and Tech Enthusiast
+# Elia Giaccardi - C# Developer and Tech Enthusiast
 
 Welcome to my GitHub profile! I'm Elia Giaccardi, a dedicated C# developer with a passion for pushing the boundaries of technology. With 3 years of hands-on experience, I've been involved in diverse projects, ranging from game development and mobile apps to AI.
 
-## 🚀 Flagship Project: UCI Chess Engine
+## 🚀 Flagship Project: [Lunarr Chess Engine](https://github.com/Eliagiac/lunarr-chess-engine)
 
 My proudest achievement is the ongoing development of a UCI chess engine written in C#. This project, initiated in 2021, showcases my commitment to continuous learning and self-improvement. The engine boasts a strength comparable to that of an experienced human player (~2000 ELO), and I am dedicated to refining and enhancing its capabilities through regular updates.
 
