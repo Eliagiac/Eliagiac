@@ -20,6 +20,6 @@ If you're on the lookout for a skilled professional with a passion for continuou
 
 📧 **Email:** [elia.giaccardi@gmail.com](mailto:elia.giaccardi@gmail.com)
 
-🔗 **LinkedIn:** [Elia Giaccardi](https://www.linkedin.com/in/giaccardi-elia/) *(Please insert your LinkedIn profile link here)*
+🔗 **LinkedIn:** [Elia Giaccardi](https://www.linkedin.com/in/giaccardi-elia/)
 
 Looking forward to collaborating with you and making strides in the world of technology!
