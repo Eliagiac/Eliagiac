@@ -19,3 +19,5 @@ What sets me apart is not just my technical proficiency, but a genuine enthusias
 If you're on the lookout for a skilled professional with a passion for continuous growth and pushing boundaries, I'm here to contribute my knowledge to projects that make a lasting impact. Let's connect and explore the exciting possibilities together!
 
 Looking forward to collaborating with you!
+
+LinkedIn: https://www.linkedin.com/in/giaccardi-elia/
